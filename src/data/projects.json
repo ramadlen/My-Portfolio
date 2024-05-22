@@ -1,0 +1,23 @@
+[
+  {
+    "title": "React E - Commerce",
+    "imageSrc": "projects/project.png",
+    "description": "Project ini dibangun menggunakan ReactJS dan Redux",
+    "skills": ["React", "React Redux"],
+    "source": "https://github.com/ramadlen/React-Ecommerce"
+  },
+  {
+    "title": "Next Js Projects",
+    "imageSrc": "projects/project.png",
+    "description": "Project ini dibangun menggunakan NextJS, dan terhubung database.",
+    "skills": ["NextJs", "MongoDB"],
+    "source": "https://drive.google.com/drive/folders/14MreToJyOm3nHHmH9gPtMI1hCjeERYOB"
+  },
+  {
+    "title": "Contact API",
+    "imageSrc": "projects/project.png",
+    "description": "Project ini dibangun menggunakan NestJS",
+    "skills": ["Prisma", "MySQL", "TS"],
+    "source": "https://github.com/ramadlen/nest-api"
+  }
+]

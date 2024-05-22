@@ -1,0 +1,28 @@
+[
+  {
+    "role": "LBB Cerdik , IBSI dan Tutor Private Peserta Didik Al - Hikmah",
+    "organisation": "",
+    "startDate": "Jan 2020",
+    "endDate": "Juli 2020",
+    "experiences": [
+      "Berhasil Membimbing 5 Siswa Kelas VII, VIII, XI, XII hingga 5 besar"
+    ],
+    "imageSrc": "history/images.png"
+  },
+  {
+    "role": "PT. Globalindo Perdana Sejahtera",
+    "organisation": "",
+    "startDate": "Juni 2021",
+    "endDate": "Juni 2021",
+    "experiences": ["Staff Operasional (Praktik Industri)"],
+    "imageSrc": "history/superspring_logo.png"
+  },
+  {
+    "role": "PT. Denisa Hanesti Pratama",
+    "organisation": "",
+    "startDate": "Nov, 2022",
+    "endDate": "Sekarang",
+    "experiences": ["IT"],
+    "imageSrc": "history/images.jpg"
+  }
+]

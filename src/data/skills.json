@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.webp"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Next JS",
+    "imageSrc": "skills/dango-inner-2.webp"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Socket.io",
+    "imageSrc": "skills/1200px-Socket-io.svg.png"
+  },
+  {
+    "title": "NestJS",
+    "imageSrc": "skills/nest js.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mySQL-logo.webp"
+  }
+]
